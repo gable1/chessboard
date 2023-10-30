@@ -6,8 +6,8 @@
     <!-- Include the chess.js library -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/chess.js/0.10.3/chess.js"></script>
     <!-- Include the chessboard.js library and CSS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chessboard.js/0.3.0/chessboard-0.3.0.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chessboard.js/0.3.0/chessboard-0.3.0.min.css" />
 </head>
 <body>
 <div id="board" style="width: 400px"></div>
